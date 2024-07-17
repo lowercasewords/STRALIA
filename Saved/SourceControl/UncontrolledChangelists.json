@@ -5,6 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/StarterContent/Particles/P_Steam_Lit.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/MainMenuMap.umap",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/UI/Mainmenu.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/UI/MenuGamemode.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/Terrain/ground_red.uasset",
+				"C:/Users/theec/UnrealProjects/STRALIA/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Content/StarterContent/Particles/P_Fire.uasset"
 			]
 		}
