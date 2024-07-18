@@ -1,0 +1,361 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+/* Begin PBXBuildFile section */
+		98D00D7752C9C1FCCFBC2073 = {isa = PBXBuildFile; fileRef = 0213F3799F66D15AF96C874C; settings = {COMPILER_FLAGS = "@/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Intermediate/ProjectFiles/ResponseFiles/STRALIAEditor1.response"; }; }; /* EnemySpawnHandler.cpp */
+		0771BE1AC66BED5E3AAAB2DB = {isa = PBXBuildFile; fileRef = 20D9C46E92340A1BB00AA201; settings = {COMPILER_FLAGS = "@/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Intermediate/ProjectFiles/ResponseFiles/STRALIAEditor1.response"; }; }; /* STRALIA.cpp */
+		7F1BB6440150640EBBBA193D = {isa = PBXBuildFile; fileRef = 5A70F289DAC12B793E008204; }; /* Assets.xcassets */
+		12B81827CC15CAD4F4016B78 = {isa = PBXBuildFile; fileRef = 2E78729E57769DA21FE5B3A7; }; /* LaunchScreen.storyboardc */
+		E09992FED9D8DDC281E135FF = {isa = PBXBuildFile; fileRef = 1C502197C3259C7029E18219; }; /* UEMetadata */
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		E60406A3EF4238DE7A6CECA2 = {isa = PBXFileReference; explicitFileType = file.txt; name = "README.md"; path = "../../README.md"; sourceTree = SOURCE_ROOT; };
+		10E4841AB4578BB4EF66F8B7 = {isa = PBXFileReference; explicitFileType = file.txt; name = "STRALIA.uproject"; path = "../../STRALIA.uproject"; sourceTree = SOURCE_ROOT; };
+		0213F3799F66D15AF96C874C = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "EnemySpawnHandler.cpp"; path = "../../Source/STRALIA/Private/EnemySpawnHandler.cpp"; sourceTree = SOURCE_ROOT; };
+		E74629BE3FAE0AA0BE63917A = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "EnemySpawnHandler.h"; path = "../../Source/STRALIA/Public/EnemySpawnHandler.h"; sourceTree = SOURCE_ROOT; };
+		49BE4FED733905BC38AA60B6 = {isa = PBXFileReference; explicitFileType = file.txt; name = "STRALIA.Build.cs"; path = "../../Source/STRALIA/STRALIA.Build.cs"; sourceTree = SOURCE_ROOT; };
+		20D9C46E92340A1BB00AA201 = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.objcpp; name = "STRALIA.cpp"; path = "../../Source/STRALIA/STRALIA.cpp"; sourceTree = SOURCE_ROOT; };
+		4A713FB1535D3E9FAB5DE572 = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; name = "STRALIA.h"; path = "../../Source/STRALIA/STRALIA.h"; sourceTree = SOURCE_ROOT; };
+		940AC694D607EE88F16DFF10 = {isa = PBXFileReference; explicitFileType = file.txt; name = "STRALIAEditor.Target.cs"; path = "../../Source/STRALIAEditor.Target.cs"; sourceTree = SOURCE_ROOT; };
+		24B762DB4BF892C0D3D715E6 = {isa = PBXFileReference; explicitFileType = wrapper.application; name = "STRALIAEditor"; path = "STRALIAEditor"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A70F289DAC12B793E008204 = {isa = PBXFileReference; explicitFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/Assets.xcassets"; sourceTree = "<absolute>"; };
+		2E78729E57769DA21FE5B3A7 = {isa = PBXFileReference; explicitFileType = wrapper.storyboardc; name = "LaunchScreen.storyboardc"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/IOS/Resources/Interface/LaunchScreen.storyboardc"; sourceTree = "<absolute>"; };
+		1C502197C3259C7029E18219 = {isa = PBXFileReference; explicitFileType = file.txt; name = "UEMetadata"; path = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/Mac/Resources/UEMetadata"; sourceTree = "<absolute>"; };
+		C9315088AC699A72A8B7A613 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "STRALIAEditor.xcconfig"; path = "XcconfigsMac/STRALIAEditor.xcconfig"; sourceTree = "<group>"; };
+		D8604FFACB76AE1E753EB0D3 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "STRALIAEditor_DebugGame.xcconfig"; path = "XcconfigsMac/STRALIAEditor_DebugGame.xcconfig"; sourceTree = "<group>"; };
+		39ADDC766F4C629B09AF7302 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "STRALIAEditor_Development.xcconfig"; path = "XcconfigsMac/STRALIAEditor_Development.xcconfig"; sourceTree = "<group>"; };
+		3559EA0D3C6185CF2A7F9212 = {isa = PBXFileReference; explicitFileType = test.xcconfig; name = "STRALIAEditor_Index.xcconfig"; path = "XcconfigsMac/STRALIAEditor_Index.xcconfig"; sourceTree = "<group>"; };
+		41E323320D6E1783E41DB0FC = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info-Editor.Template.plist"; path = "../../../../../../Shared/Epic Games/UE_5.4/Engine/Intermediate/Build/Mac/Resources/Info-Editor.Template.plist"; sourceTree = "<group>"; };
+		8AAB32B20EAB7C4A6A20642C = {isa = PBXFileReference; explicitFileType = text.plist; name = "Info.Template.plist"; path = "../../Build/Mac/Resources/Info.Template.plist"; sourceTree = "<group>"; };
+		AB90C29548A0A6213E183B0E = {isa = PBXFileReference; explicitFileType = text.plist; name = "Sandbox.Server.entitlements"; path = "../../Build/Mac/Resources/Sandbox.Server.entitlements"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		69EBE0A3AD07986A41A219A1 = {
+			isa = PBXGroup;
+			children = (
+				76BC68D3F6EFFE9D9D308E65 /* Source */,
+				E60406A3EF4238DE7A6CECA2 /* README.md */,
+				10E4841AB4578BB4EF66F8B7 /* STRALIA.uproject */,
+				B06CBE5A641FFB1DEC1B014C /* Products */,
+				B272F0976996871E45DA1CE4 /* Resources */,
+				80D95F7B9A75C67139CFEF60 /* Xcconfigs */,
+				FE69C6BD911B4B3C32C8095B /* Metadata */,
+			);
+			sourceTree = "<group>";
+		};
+		76BC68D3F6EFFE9D9D308E65 = {
+			isa = PBXGroup;
+			children = (
+				5B9F0B67557F8ACEB1999611 /* STRALIA */,
+				940AC694D607EE88F16DFF10 /* STRALIAEditor.Target.cs */,
+			);
+			name = "Source";
+			path = "/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source";
+			sourceTree = "<absolute>";
+		};
+		5B9F0B67557F8ACEB1999611 = {
+			isa = PBXGroup;
+			children = (
+				751897A6D2BBECA119E7EEBA /* Private */,
+				29F5EF141CF740DA4F62F13C /* Public */,
+				49BE4FED733905BC38AA60B6 /* STRALIA.Build.cs */,
+				20D9C46E92340A1BB00AA201 /* STRALIA.cpp */,
+				4A713FB1535D3E9FAB5DE572 /* STRALIA.h */,
+			);
+			name = "STRALIA";
+			path = "/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIA";
+			sourceTree = "<absolute>";
+		};
+		751897A6D2BBECA119E7EEBA = {
+			isa = PBXGroup;
+			children = (
+				0213F3799F66D15AF96C874C /* EnemySpawnHandler.cpp */,
+			);
+			name = "Private";
+			path = "/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIA/Private";
+			sourceTree = "<absolute>";
+		};
+		29F5EF141CF740DA4F62F13C = {
+			isa = PBXGroup;
+			children = (
+				E74629BE3FAE0AA0BE63917A /* EnemySpawnHandler.h */,
+			);
+			name = "Public";
+			path = "/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIA/Public";
+			sourceTree = "<absolute>";
+		};
+		B06CBE5A641FFB1DEC1B014C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				24B762DB4BF892C0D3D715E6 /* STRALIAEditor */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B272F0976996871E45DA1CE4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5A70F289DAC12B793E008204 /* Assets.xcassets */,
+				2E78729E57769DA21FE5B3A7 /* LaunchScreen.storyboardc */,
+				1C502197C3259C7029E18219 /* UEMetadata */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		80D95F7B9A75C67139CFEF60 /* Xcconfigs */ = {
+			isa = PBXGroup;
+			children = (
+				C9315088AC699A72A8B7A613 /* STRALIAEditor.xcconfig */,
+				D8604FFACB76AE1E753EB0D3 /* STRALIAEditor_DebugGame.xcconfig */,
+				39ADDC766F4C629B09AF7302 /* STRALIAEditor_Development.xcconfig */,
+				3559EA0D3C6185CF2A7F9212 /* STRALIAEditor_Index.xcconfig */,
+			);
+			name = Xcconfigs;
+			sourceTree = "<group>";
+		};
+		FE69C6BD911B4B3C32C8095B /* Metadata */ = {
+			isa = PBXGroup;
+			children = (
+				41E323320D6E1783E41DB0FC /* Info-Editor.Template.plist */,
+				8AAB32B20EAB7C4A6A20642C /* Info.Template.plist */,
+				AB90C29548A0A6213E183B0E /* Sandbox.Server.entitlements */,
+			);
+			name = Metadata;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+/* Begin PBXProject section */
+		E2626D9998D2477AF327B286 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 2000;
+				ORGANIZATIONNAME = "Epic Games, Inc.";
+				TargetAttributes = {
+					A7DA756955FAADC7B98E46FE = {
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 2DDC144CD8FE6D2083BBC11D /* Build configuration list for PBXProject "STRALIAEditor" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en
+			);
+			mainGroup = 69EBE0A3AD07986A41A219A1;
+			productRefGroup = B06CBE5A641FFB1DEC1B014C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A7DA756955FAADC7B98E46FE /* STRALIAEditor */,
+				3715C20B42527E61EF6DC632 /* STRALIAEditor_Index */,
+				77720B608DF9EF7A8C6B9A24 /* STRALIAEditor_Build */,
+			);
+		};
+/* End PBXProject section */
+/* Begin Run_App section */
+		A7DA756955FAADC7B98E46FE /* STRALIAEditor */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B4A3CFF995F69A39DE066C72 /* Build configuration list for PBXNativeTarget "STRALIAEditor" */;
+			buildPhases = (
+				F210850970531F847419C628 /* Resources */,
+				8458F0019A3351C0F9E10865 /* Copy Executable into .app */,
+			);
+			dependencies = (
+				5BBE2A32F8D89342D7ADCF6D /* STRALIAEditor_Build */,
+			);
+			name = "STRALIAEditor";
+			passBuildSettingsInEnvironment = 1;
+			productType = "com.apple.product-type.application";
+			productReference = 24B762DB4BF892C0D3D715E6;
+			productName = "STRALIAEditor";
+		};
+/* End Run_App section */
+		B4A3CFF995F69A39DE066C72 /* Build configuration list for target STRALIAEditor */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0A176E44F02B94B6499CF16A /* DebugGame */,
+				EE7E885548B372B5DFDB09DC /* Development */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		0A176E44F02B94B6499CF16A /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D8604FFACB76AE1E753EB0D3 /* STRALIAEditor_DebugGame.xcconfig */;
+			buildSettings = {
+			};
+			name = "DebugGame";
+		};
+		EE7E885548B372B5DFDB09DC /* Development */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 39ADDC766F4C629B09AF7302 /* STRALIAEditor_Development.xcconfig */;
+			buildSettings = {
+			};
+			name = "Development";
+		};
+/* Begin PBXResourcesBuildPhase section */
+		F210850970531F847419C628 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F1BB6440150640EBBBA193D /* Assets.xcassets in Resources */,
+				12B81827CC15CAD4F4016B78 /* LaunchScreen.storyboardc in Resources */,
+				E09992FED9D8DDC281E135FF /* UEMetadata in Resources */,
+			);
+		};
+/* End PBXResourcesBuildPhase section */
+/* Begin PBXShellScriptBuildPhase section */
+		8458F0019A3351C0F9E10865 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "Copy Executable into .app";
+			inputPaths = (
+			);
+			outputPaths = (
+				"/dev/null"
+			);
+			shellPath = /bin/sh;
+			shellScript = "set -eo pipefail\nSRC_EXE=\"${UE_BINARIES_DIR}/${UE_UBT_BINARY_SUBPATH}\"\nDEST_EXE=\"${CONFIGURATION_BUILD_DIR}/${EXECUTABLE_PATH}\"\nDEST_EXE_DIR=`dirname \"${DEST_EXE}\"`\n\necho Copying executable and any standalone dylibs into ${DEST_EXE_DIR} but do not overwrite unless src is newer\nmkdir -p \"${DEST_EXE_DIR}\"\nrsync -au \"${SRC_EXE}\" \"${DEST_EXE}\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+/* Begin PBXContainerItemProxy section */
+		7BB5DFBBAD8ECDB6ABE91673 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E2626D9998D2477AF327B286 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 77720B608DF9EF7A8C6B9A24;
+			remoteInfo = "STRALIAEditor_Build";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXTargetDependency section */
+		5BBE2A32F8D89342D7ADCF6D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 77720B608DF9EF7A8C6B9A24 /* STRALIAEditor_Build */;
+			targetProxy = 7BB5DFBBAD8ECDB6ABE91673 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+/* Begin Build section */
+		77720B608DF9EF7A8C6B9A24 /* STRALIAEditor_Build */ = {
+			isa = PBXLegacyTarget;
+			buildConfigurationList = 580D80A3ECC693F607A3B34A /* Build configuration list for PBXLegacyTarget "STRALIAEditor_Build" */;
+			buildArgumentsString = "$(ACTION) STRALIAEditor $(PLATFORM_NAME) $(CONFIGURATION) /Users/arturagalarian/Documents/Unreal\ Projects/STRALIA/STRALIA.uproject";
+			buildToolPath = "/Users/Shared/Epic Games/UE_5.4/Engine/Build/BatchFiles/Mac/XcodeBuild.sh";
+			buildWorkingDirectory = "/Users/Shared/Epic Games/UE_5.4";
+			buildPhases = (
+			);
+			dependencies = (
+			);
+			name = "STRALIAEditor_Build";
+			passBuildSettingsInEnvironment = 1;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End Build section */
+		580D80A3ECC693F607A3B34A /* Build configuration list for target STRALIAEditor_Build */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BA6F7C8F1A12A277C7481FC7 /* DebugGame */,
+				794C8EC5D7A41CD71D5D57F3 /* Development */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		BA6F7C8F1A12A277C7481FC7 /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = "DebugGame";
+		};
+		794C8EC5D7A41CD71D5D57F3 /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = "Development";
+		};
+		2DDC144CD8FE6D2083BBC11D /* Build configuration list for target STRALIAEditor */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A38AE28DB15C9FDE445CDAC /* DebugGame */,
+				6196853DC09B6CACDE994993 /* Development */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		9A38AE28DB15C9FDE445CDAC /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos xros xrsimulator";
+				ONLY_ACTIVE_ARCH = YES;
+				"VALID_ARCHS[sdk=macos*]" = "arm64 x86_64";
+			};
+			name = "DebugGame";
+		};
+		6196853DC09B6CACDE994993 /* Development */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				SUPPORTED_PLATFORMS = "macosx iphonesimulator iphoneos appletvsimulator appletvos xros xrsimulator";
+				ONLY_ACTIVE_ARCH = YES;
+				"VALID_ARCHS[sdk=macos*]" = "arm64 x86_64";
+			};
+			name = "Development";
+		};
+/* Begin Index section */
+		3715C20B42527E61EF6DC632 /* STRALIAEditor_Index */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 07CE6512C2D15DE70E68EB42 /* Build configuration list for PBXNativeTarget "STRALIAEditor_Index" */;
+			buildPhases = (
+				16CB20A2ACF87224FA6EB2F4 /* Sources */,
+			);
+			dependencies = (
+			);
+			name = "STRALIAEditor_Index";
+			passBuildSettingsInEnvironment = 1;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End Index section */
+		07CE6512C2D15DE70E68EB42 /* Build configuration list for target STRALIAEditor_Index */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				783060E84E143E00EF1BF0C5 /* DebugGame */,
+				53BEBA92C66CBCF3D05335F1 /* Development */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = "Development";
+		};
+		783060E84E143E00EF1BF0C5 /* DebugGame */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3559EA0D3C6185CF2A7F9212 /* STRALIAEditor_Index.xcconfig */;
+			buildSettings = {
+			};
+			name = "DebugGame";
+		};
+		53BEBA92C66CBCF3D05335F1 /* Development */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3559EA0D3C6185CF2A7F9212 /* STRALIAEditor_Index.xcconfig */;
+			buildSettings = {
+			};
+			name = "Development";
+		};
+/* Begin PBXSourcesBuildPhase section */
+		16CB20A2ACF87224FA6EB2F4 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				98D00D7752C9C1FCCFBC2073 /* EnemySpawnHandler.cpp in Sources */,
+				0771BE1AC66BED5E3AAAB2DB /* STRALIA.cpp in Sources */,
+			);
+		};
+/* End PBXSourcesBuildPhase section */
+	};
+	rootObject = E2626D9998D2477AF327B286 /* Project object */;
+}

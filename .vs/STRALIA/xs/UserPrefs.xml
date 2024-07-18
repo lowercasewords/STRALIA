@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{88CC5881-965E-31F2-BD14-7E565D93EA40}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="STRALIA" selected="True">
+            <Node name="Programs" expanded="True" />
+            <Node name="Rules" expanded="True" />
+            <Node name="Visualizers" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

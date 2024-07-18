@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "STRALIA",
+			"Path": "../Source/STRALIA.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "STRALIAEditor",
+			"Path": "../Source/STRALIAEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

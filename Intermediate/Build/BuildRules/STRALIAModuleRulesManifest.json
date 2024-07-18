@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIA/STRALIA.Build.cs",
+		"/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIA.Target.cs",
+		"/Users/arturagalarian/Documents/Unreal Projects/STRALIA/Source/STRALIAEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
